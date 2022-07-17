@@ -7,6 +7,4 @@
 <img src="https://img.shields.io/badge/React.js-black?style=plastic&logo=React&logoColor=dodgerblue"/>
 <img src="https://img.shields.io/badge/Three.js-black?style=plastic&logo=Three.js&logoColor=white"/>
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHKIMS&show_icons=true&theme=algolia)
