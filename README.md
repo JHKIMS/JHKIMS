@@ -1,4 +1,4 @@
-👋 CallSign? CaHoon(feat.Maverick) 👋
+👋 Hi, I'm J~
 
 🍀 Blog
 : https://velog.io/@ddwj
