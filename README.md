@@ -8,7 +8,8 @@
 <img src="https://user-images.githubusercontent.com/44609018/193733017-bae768f8-91a7-42eb-a8e5-a5f1bdeb7a7e.png" style="width:40px">
 <img src="https://user-images.githubusercontent.com/44609018/193733169-19f26d75-deb8-47e9-9c77-33f71ffb3c36.png" style="width:40px">
 <img src="https://user-images.githubusercontent.com/44609018/193731725-ddd3eb14-8b8f-42b1-8b24-9678594aec22.png" style="width:40px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="width:40px"/>
+<img src="https://user-images.githubusercontent.com/44609018/193744281-e4237cc3-866e-4800-84ed-7a979afec627.png" style="width:40px; height:40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="width:40px;">
           
           
 
