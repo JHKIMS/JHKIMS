@@ -16,3 +16,4 @@
           
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHKIMS&show_icons=true&theme=algolia)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)
