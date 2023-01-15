@@ -13,7 +13,5 @@
 <img src="https://user-images.githubusercontent.com/44609018/193744281-e4237cc3-866e-4800-84ed-7a979afec627.png" style="width:40px; height:40px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="width:40px;">
           
-          
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHKIMS&show_icons=true&theme=algolia)
