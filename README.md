@@ -6,8 +6,8 @@
 : https://velog.io/@ddwj<br>
 
 <img src="https://user-images.githubusercontent.com/44609018/193739010-5aae5bf8-d866-417a-8e7d-8d462dce5156.png" style="width:20px">  <b>Language & Tools<br><br>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:40px, height:40px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:20px; height:20px;" />
           
           
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)<br>
