@@ -20,9 +20,9 @@
           
           
           
-<p>
+<p>#2d3436
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JHKIMS&show_icons=true&theme=algolia" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHKIMS&layout=compact&bg_color=30,636e72,2d3436" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHKIMS&layout=compact&bg_color=30,2d3436,2d3436" />
 </p>
       
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)<br>
