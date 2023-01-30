@@ -24,7 +24,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHKIMS&layout=compact&theme=nord" />
 </p>
 
-[![JEONGHOONKIM's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JEONGHOONKIM)]
+[![JHKIMS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JHKIMS)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)<br>
 
 
