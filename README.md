@@ -25,7 +25,6 @@
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/fd0095d7-2c93-49bc-9e72-8b046b1f6dcc.svg)](https://wakatime.com/@fd0095d7-2c93-49bc-9e72-8b046b1f6dcc)
-[![JHKIMS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JHKIMS)](https://github.com/JHKIMS/github-readme-stats)
       
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)<br>
 
