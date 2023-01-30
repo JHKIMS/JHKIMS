@@ -23,8 +23,6 @@
           
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JHKIMS&show_icons=true&theme=algolia)          
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)<br>
-      
-<p>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHKIMS&layout=compact&bg_color=30,e96443,904e95&title_color=#0984e3&text_color=#0984e3">
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JHKIMS=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
