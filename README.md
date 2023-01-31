@@ -29,5 +29,4 @@
  <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131" />
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)
 
