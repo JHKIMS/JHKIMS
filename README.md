@@ -24,7 +24,12 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHKIMS&layout=compact&theme=nord" />
 </p>
 
-![JHKIMS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JHKIMS)
+<p>
+ <img src="https://wakatime.com/badge/user/fd0095d7-2c93-49bc-9e72-8b046b1f6dcc.svg" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=JHKIMS"/>
+ <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131" />
+</p>
+      
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131)](https://solved.ac/wjdgns5131)<br>
 
 
