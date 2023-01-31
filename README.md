@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/44609018/194487937-526234c6-4879-4f19-bccd-606efea1d313.png">
-
 <b>👋 Hi, I'm J~<br>
 
 <b>🍀 Blog<b>
