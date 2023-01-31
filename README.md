@@ -1,4 +1,4 @@
-<img src="https://www.techaheadcorp.com/wp-content/uploads/2020/09/react-js-developer.svg"/>
+<img src="https://www.techaheadcorp.com/wp-content/uploads/2020/09/react-js-developer.svg" style="width:400px;"/>
 
 <b>👋 Hi, I'm J~<br>
 
