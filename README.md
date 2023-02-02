@@ -24,9 +24,7 @@
 </p>
 
 <img src="https://wakatime.com/badge/user/fd0095d7-2c93-49bc-9e72-8b046b1f6dcc.svg" />
-<p>
- <img height="180em" width="431px" src="https://github-readme-stats.vercel.app/api/wakatime?username=JHKIMS"/>
- <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131" />
-</p>
+<img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131" />
+
 
 
