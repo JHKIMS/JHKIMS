@@ -6,12 +6,12 @@
 : https://velog.io/@ddwj<br>
 
 <p>      
- <h4>⚔️ Language</h4><br>          
+ <h4>⚔️ Language</h4>          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:30px; height:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:30px; height:30px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:30px; height:30px;" />
 
-<h4>🔨 Framework, StateManagement</h4><br>
+<h4>🔨 Framework, StateManagement</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="width:30px; height:30px;"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="width:30px; height:30px;"/>
 
