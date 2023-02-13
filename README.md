@@ -1,8 +1,8 @@
 <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px;" align="center"/>
 
- <h3 align="center">👋 Hi, I'm J~<h3>
+ <h4 align="center">👋 Hi, I'm J~<h4>
 
- <b align="center">🍀 Blog<b>
+ <h4 align="center">🍀 Blog<h4>
  : https://velog.io/@ddwj<br>
 
  <p align="center">      
