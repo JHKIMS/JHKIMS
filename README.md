@@ -1,11 +1,11 @@
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px;/>
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px; align:center"/>
 
- <b>👋 Hi, I'm J~<br>
+ <b style=align:center>👋 Hi, I'm J~<br>
 
- <b>🍀 Blog<b>
+ <b style=align:center>🍀 Blog<b>
  : https://velog.io/@ddwj<br>
 
- <p>      
+ <p style=align:center>      
   <h3>⚔️ Language</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://skillicons.dev)
