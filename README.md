@@ -1,20 +1,22 @@
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px;"/>
+<div style="display:flex">
+ <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px; flex:justify-content"/>
 
-<b>👋 Hi, I'm J~<br>
+ <b style="flex:justify-content">👋 Hi, I'm J~<br>
 
-<b>🍀 Blog<b>
-: https://velog.io/@ddwj<br>
- 
-<p>      
- <h3>⚔️ Language</h3>
- 
- [![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://skillicons.dev)
+ <b style="flex:justify-content">🍀 Blog<b>
+ : https://velog.io/@ddwj<br>
 
-<h3>🔨 Framework · Library · StateManagement</h3>
- 
-[![My Skills](https://skillicons.dev/icons?i=styledcomponents,nextjs)](https://skillicons.dev)
- 
-</p>
+ <p style="flex:justify-content">      
+  <h3>⚔️ Language</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://skillicons.dev)
+
+ <h3>🔨 Framework · Library · StateManagement</h3>
+
+ [![My Skills](https://skillicons.dev/icons?i=nextjs,styledcomponents)](https://skillicons.dev)
+
+ </p>
+<div>
       
                
 <p>
