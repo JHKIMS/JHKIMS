@@ -1,4 +1,4 @@
-<img src="https://blog.logrocket.com/wp-content/uploads/2017/11/typescript-react-tutorial.png" style="width:500px;"/>
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px;"/>
 
 <b>👋 Hi, I'm J~<br>
 
