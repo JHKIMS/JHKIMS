@@ -6,9 +6,10 @@
 : https://velog.io/@ddwj<br>
  
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://skillicons.dev)
- 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
- 
+
+
+ [![My Skills](https://skillicons.dev/icons?i=styledcomponents,nextjs)](https://skillicons.dev)
+
 <p>      
  <h3>⚔️ Language</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:30px; height:30px;"/>
