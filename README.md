@@ -1,4 +1,5 @@
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px;" align="center"/>
+<div align="center">
+ <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px;" align="center"/>
 
  <h4 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm J~<h4>
 
@@ -14,7 +15,7 @@
  [![My Skills](https://skillicons.dev/icons?i=nextjs,styledcomponents)](https://skillicons.dev)
 
  </p>
-
+</div>
       
                
 <p>
