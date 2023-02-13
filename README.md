@@ -4,7 +4,7 @@
 
 <b>🍀 Blog<b>
 : https://velog.io/@ddwj<br>
-[![My Skills](https://skillicons.dev/icons?i=js,react, typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react, ts)](https://skillicons.dev)
  
 <p>      
  <h3>⚔️ Language</h3>
