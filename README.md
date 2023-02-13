@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ukhx76VQ8E6JXEW7xfIzSA.png" style="width:500px;"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ukhx76VQ8E6JXEW7xfIzSA.png" style="width:500px; height:200px"/>
 
 <b>👋 Hi, I'm J~<br>
 
