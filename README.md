@@ -2,8 +2,7 @@
 
  <h4 align="center">👋 Hi, I'm J~<h4>
 
- <h4 align="center">🍀 Blog<h4>
- : https://velog.io/@ddwj<br>
+ <h4 align="center">🍀 Blog<h4>: https://velog.io/@ddwj<br>
 
  <p align="center">      
   <h3>⚔️ Language</h3>
