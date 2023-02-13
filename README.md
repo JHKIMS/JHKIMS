@@ -1,4 +1,5 @@
-<img src="https://www.techaheadcorp.com/wp-content/uploads/2020/09/react-js-developer.svg" style="width:300px;"/>
+<img src="![image](https://user-images.githubusercontent.com/44609018/218598471-42fd6405-d344-4790-9272-cb2003619998.png)
+" style="width:500px;"/>
 
 <b>👋 Hi, I'm J~<br>
 
