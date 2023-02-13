@@ -5,17 +5,15 @@
 <b>🍀 Blog<b>
 : https://velog.io/@ddwj<br>
  
-
-
-
-
-
 <p>      
  <h3>⚔️ Language</h3>
+ 
  [![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://skillicons.dev)
 
 <h3>🔨 Framework · Library · StateManagement</h3>
+ 
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents,nextjs)](https://skillicons.dev)
+ 
 </p>
       
                
