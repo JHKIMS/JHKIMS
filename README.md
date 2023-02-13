@@ -5,21 +5,17 @@
 <b>🍀 Blog<b>
 : https://velog.io/@ddwj<br>
  
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://skillicons.dev)
 
 
- [![My Skills](https://skillicons.dev/icons?i=styledcomponents,nextjs)](https://skillicons.dev)
+
+
 
 <p>      
  <h3>⚔️ Language</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:30px; height:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:30px; height:30px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:30px; height:30px;" />
+ [![My Skills](https://skillicons.dev/icons?i=js,react,ts)](https://skillicons.dev)
 
-<h3>🔨 Framework · StateManagement</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="width:30px; height:30px;"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="width:30px; height:30px;"/>
-
+<h3>🔨 Framework · Library · StateManagement</h3>
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,nextjs)](https://skillicons.dev)
 </p>
       
                
