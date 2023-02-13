@@ -2,7 +2,7 @@
 
  <h4 align="center">👋 Hi, I'm J~<h4>
 
- <a href="https://velog.io/@ddwj" align="center">🍀 Blog</a>
+ <a href="https://velog.io/@ddwj" style="align="center">🍀 Blog</a>
 
  <p align="center">      
   <h3>⚔️ Language</h3>
