@@ -1,4 +1,4 @@
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px; text-align:"center"/>
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px;/>
 
  <b>👋 Hi, I'm J~<br>
 
