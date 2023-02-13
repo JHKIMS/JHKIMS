@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ukhx76VQ8E6JXEW7xfIzSA.png" style="width:500px;"/>
+<img src="https://blog.logrocket.com/wp-content/uploads/2017/11/typescript-react-tutorial.png" style="width:500px;"/>
 
 <b>👋 Hi, I'm J~<br>
 
