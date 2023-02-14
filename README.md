@@ -10,7 +10,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
- <h3>🔨 Framework · Library · StateManagement</h3>
+ <h3>🔨 Library · Framework · StateManagement</h3>
 
  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents)](https://skillicons.dev)
 
