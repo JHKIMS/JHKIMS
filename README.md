@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://ionic.io/blog/wp-content/uploads/2019/02/typescript-in-react.png" style="width:500px; height:250px;"/>
+ <img src="https://ionic.io/blog/wp-content/uploads/2019/02/typescript-in-react.png" style="width:600px; height:250px;"/>
 
  <h4><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm J~<h4>
 
