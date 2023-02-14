@@ -3,7 +3,7 @@
 
  <h4><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm J~<h4>
 
- <h4>🍀 Blog : https://velog.io/@ddwj</h4>
+ <h4>🧩 Blog : https://velog.io/@ddwj</h4>
 
  <p>      
   <h3>⚔️ Language</h3>
