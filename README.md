@@ -12,7 +12,7 @@
 
  <h3>🔨 Library · Framework · StateManagement</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
 
  </p>
 </div>
