@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/10/typescript-cover.jpg" style="width:500px; height:250px;" align="center"/>
+ <img src="https://ionic.io/blog/wp-content/uploads/2019/02/typescript-in-react.png" style="width:500px; height:250px;"/>
 
  <h4><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm J~<h4>
 
