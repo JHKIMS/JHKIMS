@@ -23,8 +23,3 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JHKIMS&show_icons=true&theme=algolia" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHKIMS&layout=compact&theme=nord" />
 </p>
-
-
-<p>
- <img height="180em" src="http://mazassumnida.wtf/api/generate_badge?boj=wjdgns5131" />
-</p>
