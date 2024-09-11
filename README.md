@@ -21,10 +21,3 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JHKIMS&show_icons=true&theme=algolia" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHKIMS&layout=compact&theme=nord" />
 </p>
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
