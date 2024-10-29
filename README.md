@@ -6,7 +6,8 @@
  <p>      
   <h3>⚔️ Language</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+  <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/js-icon.svg">
+  <img alt= "icon" wide="80" height="80" src ="https://techstack-generator.vercel.app/ts-icon.svg">
 
  <h3>🔨 Library · Framework · StateManagement</h3>
 
