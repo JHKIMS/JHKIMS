@@ -1,5 +1,7 @@
+
+
 <div align="center">
- <img src="https://ionic.io/blog/wp-content/uploads/2019/02/typescript-in-react.png" style="width:700px; height:250px;"/>
+ ![gif](programming.gif)
 
  <h4><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm J~<h4>
 
