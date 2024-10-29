@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f4fd27d5-cafe-4893-8963-34e940696ac0)<div align="center">
+<div align="center">
  <img src="https://ionic.io/blog/wp-content/uploads/2019/02/typescript-in-react.png" style="width:700px; height:250px;"/>
 
  <h4><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I'm J~<h4>
@@ -12,7 +12,6 @@
  <h3>🔨 Library · Framework · StateManagement</h3>
 
  <img alt="icon" wide="80" height="80" src="https://techstack-generator.vercel.app/react-icon.svg">
- <img alt="icon" wide="80" height="80" src="https://techstack-generator.vercel.app/next-icon.svg">
 
   <img src="https://wakatime.com/badge/user/fd0095d7-2c93-49bc-9e72-8b046b1f6dcc.svg" />
  </p>
