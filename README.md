@@ -11,7 +11,8 @@
 
  <h3>🔨 Library · Framework · StateManagement</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
+ <img alt="icon" wide="80" height="80" src="https://techstack-generator.vercel.app/react-icon.svg">
+ <img alt="icon" wide="80" height="80" src="https://techstack-generator.vercel.app/next-icon.svg">
 
   <img src="https://wakatime.com/badge/user/fd0095d7-2c93-49bc-9e72-8b046b1f6dcc.svg" />
  </p>
